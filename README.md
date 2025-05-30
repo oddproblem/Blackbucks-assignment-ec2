@@ -1,7 +1,9 @@
 # Blackbucks-assignment-ec2
 This is an project made by me as final submission for BlackBucks cloud computing course
 # AWS Auto Scaling Web App with Load Balancer
-🚀 [Live Demo](http://autoscale-lb-1976940408.eu-north-1.elb.amazonaws.com/)
+🚀 Live Demo (copy & paste): 
+`http://autoscale-lb-1976940408.eu-north-1.elb.amazonaws.com/`
+
 
 ## Project Overview
 
